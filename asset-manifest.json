@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PPGgameCard/static/css/main.f3060adf.css",
+    "main.js": "/PPGgameCard/static/js/main.6c8440fb.js",
+    "static/js/453.ed3810f9.chunk.js": "/PPGgameCard/static/js/453.ed3810f9.chunk.js",
+    "static/media/M_avatar2.jpg": "/PPGgameCard/static/media/M_avatar2.7bec8b3838b9a89b7954.jpg",
+    "static/media/background.jpg": "/PPGgameCard/static/media/background.f7523ac592bf08dbe6af.jpg",
+    "static/media/M_avatar1.jpeg": "/PPGgameCard/static/media/M_avatar1.8dbc4a22ffeb8360464c.jpeg",
+    "static/media/M_avatar3.png": "/PPGgameCard/static/media/M_avatar3.eab3bb194352a75d1b10.png",
+    "static/media/Logo.png": "/PPGgameCard/static/media/Logo.7243e1007d22d6eede17.png",
+    "static/media/success.png": "/PPGgameCard/static/media/success.bbbc7525881c9e8143f1.png",
+    "index.html": "/PPGgameCard/index.html",
+    "main.f3060adf.css.map": "/PPGgameCard/static/css/main.f3060adf.css.map",
+    "main.6c8440fb.js.map": "/PPGgameCard/static/js/main.6c8440fb.js.map",
+    "453.ed3810f9.chunk.js.map": "/PPGgameCard/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3060adf.css",
+    "static/js/main.6c8440fb.js"
+  ]
+}
